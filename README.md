@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan Ueda Teo</h1>
+<h1 align="center">Ryan Ueda Teo</h1>
 <h3 align="center">SP Applied AI & Analytics | Machine Learning, Deep Learning, Data Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanueda&label=Profile%20views&color=0e75b6&style=flat" alt="ryanueda" /> </p>
