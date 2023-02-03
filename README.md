@@ -1,5 +1,7 @@
-<h1 align="center">Ryan Ueda Teo</h1>
-<h3 align="center">SP Applied AI & Analytics | Machine Learning, Deep Learning, Data Analytics</h3>
+<!-- <h1 align="center">Ryan Ueda Teo</h1>
+<h3 align="center">SP Applied AI & Analytics | Machine Learning, Deep Learning, Data Analytics</h3> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+FatFace&weight=900&size=25&duration=2500&pause=1000&color=B280F7&vCenter=true&width=435&lines=SP+Applied+AI+%26+Analytics+%7C+Data+Science+%7C+MLOps+%7C+Deep+Learning+%7C+Data+Analytics)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanueda&label=Profile%20views&color=0e75b6&style=flat" alt="ryanueda" /> </p>
 
